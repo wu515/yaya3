@@ -47,3 +47,7 @@
   ],
   "cache": "https://servers.sidestore.io/servers.json.hash"
 }
+{
+    "name": "[yayaya3]",   //doesn't really matter unless you're sharing this server list with someone else
+    "address": "[https://yaya2.onrender.com]"
+}
